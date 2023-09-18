@@ -10,4 +10,4 @@ You can:
 - Editing the emotions specified in `utils.py` in `AVAILABLE_EMOTIONS` constant.
 
 When you modified anything, you can run `ser.py` to retrain the model.
-
+Add as much of dataset as possible to make it accurate.Datasets can be downloaded from any websites.
